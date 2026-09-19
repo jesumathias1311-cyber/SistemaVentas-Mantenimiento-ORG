@@ -1,5 +1,5 @@
 package app;
-
+//Hola mundo
 import repository.ClienteRepository;
 import repository.ProductoRepository;
 import repository.VentaRepository;
